@@ -19,6 +19,7 @@ export default function Home() {
 
   const gerarRelatorio = async () => {
     const input = document.getElementById('relatorio');
+    if (!input) return;
     const canvas = await html2canvas(input as HTMLElement);
     const imgData = canvas.toDataURL('image/png');
     const pdf = new jsPDF();
