@@ -4,5 +4,5 @@
 @tailwind utilities;
 
 body {
-  @apply bg-sohoPurple text-white;
+  @apply bg-sohoPurple text-white font-sans;
 }

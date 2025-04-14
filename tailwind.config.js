@@ -7,8 +7,8 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        sohoPurple: "#1c1c2b",
-        sohoGold: "#cba94d"
+        sohoPurple: "#3a0c4a",
+        sohoGold: "#d4af37"
       }
     }
   },
