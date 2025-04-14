@@ -9,6 +9,9 @@ module.exports = {
       colors: {
         sohoPurple: "#3a0c4a",
         sohoGold: "#d4af37"
+      },
+      fontFamily: {
+        sans: ["ui-sans-serif", "system-ui"]
       }
     }
   },

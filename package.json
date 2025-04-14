@@ -1,7 +1,7 @@
 
 {
   "name": "sohoimob",
-  "version": "2.0.0",
+  "version": "3.0.0",
   "private": true,
   "scripts": {
     "dev": "next dev",
@@ -16,7 +16,8 @@
     "postcss": "^8.4.21",
     "react": "18.2.0",
     "react-dom": "18.2.0",
-    "tailwindcss": "^3.3.2"
+    "tailwindcss": "^3.3.2",
+    "lucide-react": "^0.263.0"
   },
   "devDependencies": {
     "typescript": "^5.2.2",
