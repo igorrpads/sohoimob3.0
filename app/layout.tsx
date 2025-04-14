@@ -6,7 +6,7 @@ export const metadata = {
   description: 'Plataforma de inteligência imobiliária',
 };
 
-export default function RootLayout({ children }) {
+export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
     <html lang="pt-BR">
       <body>{children}</body>
