@@ -1,0 +1,1 @@
+export default function PropertyForm() { return <form>Formulário</form>; }

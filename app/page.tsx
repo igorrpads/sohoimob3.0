@@ -1,0 +1,1 @@
+'use client'; export default function Home() { return <div>Redirecionando...</div>; }

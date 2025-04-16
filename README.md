@@ -1,3 +1,3 @@
-# SOHOIMOB - Layout Mobile App
+# SOHOIMOB
 
-Projeto reconstruído com base nas especificações finais.
+Versão final do projeto com todos os arquivos reais.

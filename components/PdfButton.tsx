@@ -1,0 +1,1 @@
+export default function PdfButton() { return <button>Gerar PDF</button>; }

@@ -1,0 +1,1 @@
+export function calcular() { return 0.5; }
